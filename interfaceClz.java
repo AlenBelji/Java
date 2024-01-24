@@ -23,6 +23,6 @@ class interfaceClz{
         obj.show1();
         obj.show2();
         System.out.println(xyz.x);
-        System.out.println(xyz.str);
+        System.out.println(xyz.str); 
     }
 }
