@@ -22,7 +22,7 @@ public class LambdaExp {
         ;
         obj1.show(10);
 
-        abc obj2=i ->System.out.println("much smaller lamda expression"+i);  //much smaller lamda expression
+        abc obj2=i ->System.out.println("much smaller lamda expression "+i);  //much smaller lamda expression
         obj2.show(10);
 
         xyz obj3=() -> "lamda expression with return type";  //lamda expression with return type
